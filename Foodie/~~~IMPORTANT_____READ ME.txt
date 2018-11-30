@@ -1,0 +1,37 @@
+$___I M P O R T A N T
+________________________________________________Islam Mansour Elsayed, IT(1)
+________________________________________________eslam.mansour15@gmail.com
+
+	DATABASE was in --> (foodie.sql) file
+	name of DB - foodie
+	contains 6 tables  
+
+
+-------------------------------------------------
+There is user and admin who can deal with website:
+=================================================
+
+
+	ADMIN: can start with --> (admin_login.php) file 
+		Username:islam
+		Password:123
+			1- can edit menu thought (menu.php) create, edit and delete menu sections
+				BY clicking on one of category --> you can add, edit and delete items thought (items.php)
+			2- can add, edit, delete admins who can access to that mode
+			3- can add, edit, delete users accounts who can order food.
+
+===================================================================================================
+
+
+	USER: can start with --> (index.php) file
+		Username:ahmed
+		Password:123
+			
+			user can order food but - I can't complete session handling - 
+			user can view index.php file till he order any itemm hi must login
+		
+			by clicking'order' --> id was saved in cart that can check but I can't handle it .
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
